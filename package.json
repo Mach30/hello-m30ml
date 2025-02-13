@@ -5,6 +5,7 @@
   "author": "Mach 30",
   "license": "CC0-1.0",
   "packageManager": "npm",
+  "repository": "github:Mach30/hello-m30ml",
   "workspaces": [
     "./packages/*",
     "./packages/@*/*"
